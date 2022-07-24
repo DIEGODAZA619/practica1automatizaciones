@@ -10,7 +10,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import org.mockito.Mockito;
 
 /**
- * @author freddyar
+ * @author DIEGODAZA619
  */
 public class AuthenticationMockTest 
 {
