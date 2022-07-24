@@ -11,7 +11,7 @@ import org.mockito.MockedStatic;
 import org.mockito.Mockito;
 
 /**
- * @author freddyar
+ * @author DIEGODAZA619
  */
 public class AuthenticationStaticMockTest 
 {
